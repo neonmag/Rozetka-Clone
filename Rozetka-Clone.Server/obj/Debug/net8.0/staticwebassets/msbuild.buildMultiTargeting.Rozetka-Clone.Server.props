@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rozetka-Clone.Server.props" />
+</Project>

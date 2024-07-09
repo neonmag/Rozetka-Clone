@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rozetka-Clone.Server", "Rozetka-Clone.Server\Rozetka-Clone.Server.csproj", "{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "rozetka-clone.client", "rozetka-clone.client\rozetka-clone.client.esproj", "{47D17401-40EE-45DE-B900-581781983B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D17401-40EE-45DE-B900-581781983B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D17401-40EE-45DE-B900-581781983B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D17401-40EE-45DE-B900-581781983B17}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{47D17401-40EE-45DE-B900-581781983B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D17401-40EE-45DE-B900-581781983B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D17401-40EE-45DE-B900-581781983B17}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA56516-62E7-445A-B742-5DCA9D5EB7C0}
+	EndGlobalSection
+EndGlobal

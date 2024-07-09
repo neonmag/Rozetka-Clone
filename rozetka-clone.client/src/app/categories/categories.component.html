@@ -1,0 +1,16 @@
+<div class="wrapper-categories">
+    <div class="card-container" *ngFor="let category of categories">
+        <h2>{{ category.name }}</h2>
+        <img [src]="category.image" alt="{{ category.name }}">
+        
+        <div class="subcategory-container">
+            <div *ngFor="let union of unions">
+                <div *ngIf="union.categoryId === category.id">
+                    <div *ngFor="let subcategory of subcategories">
+                        <p *ngIf="union.subCategoryId === subcategory.id">{{ subcategory.name }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

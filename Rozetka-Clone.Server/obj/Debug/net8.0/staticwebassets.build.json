@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "UP6vzXtdqkx8Y51U/W4qvEkcJ1XZZre3qGJRTmFxNII=",
+  "Source": "Rozetka-Clone.Server",
+  "BasePath": "_content/Rozetka-Clone.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\rozetka-clone.client\\rozetka-clone.client.esproj",
+      "Version": 2,
+      "Source": "rozetka-clone.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

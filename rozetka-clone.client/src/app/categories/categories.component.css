@@ -1,0 +1,26 @@
+.wrapper-categories{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.card-container{
+    width: calc(16.66% - 20px);
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.subcategory-container {
+    margin-top: 5px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+img{
+    max-width: 15rem;
+    max-height: 15rem;
+}

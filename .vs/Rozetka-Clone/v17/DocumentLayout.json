@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\repositories\\categoriesrepositories\\categoriesunionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\repositories\\categoriesrepositories\\categoriesunionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\repositories\\categoriesrepositories\\subcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\repositories\\categoriesrepositories\\subcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\entity\\categories\\categoryunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\entity\\categories\\categoryunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\models\\categories\\categoryunionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\models\\categories\\categoryunionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\repositories\\irepositories\\iunioncategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\repositories\\irepositories\\iunioncategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\repositories\\categoriesrepositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\repositories\\categoriesrepositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\repositories\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\repositories\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\repositories\\irepositories\\isubcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\repositories\\irepositories\\isubcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\repositories\\irepositories\\icategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\repositories\\irepositories\\icategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\entity\\categories\\subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\entity\\categories\\subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\entity\\categories\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\entity\\categories\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\models\\categories\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\models\\categories\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\models\\categories\\subcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\models\\categories\\subcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\abstractions\\categories\\categoryelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\abstractions\\categories\\categoryelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neonmag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\abstractions\\dbelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\abstractions\\dbelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|c:\\users\\neonmag\\source\\repos\\rozetka-clone\\rozetka-clone.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D45C84AB-8B1D-4389-ABAF-CC391E78ADCF}|Rozetka-Clone.Server\\Rozetka-Clone.Server.csproj|solutionrelative:rozetka-clone.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesUnionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\CategoriesUnionRepository.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\CategoriesUnionRepository.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\CategoriesUnionRepository.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\CategoriesUnionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:18:16.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnionCategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\IRepositories\\IUnionCategoriesRepository.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Repositories\\IRepositories\\IUnionCategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\IRepositories\\IUnionCategoriesRepository.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Repositories\\IRepositories\\IUnionCategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:16:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryUnionModel.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Models\\Categories\\CategoryUnionModel.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Models\\Categories\\CategoryUnionModel.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Models\\Categories\\CategoryUnionModel.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Models\\Categories\\CategoryUnionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:15:37.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryUnion.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Entity\\Categories\\CategoryUnion.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Entity\\Categories\\CategoryUnion.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Entity\\Categories\\CategoryUnion.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Entity\\Categories\\CategoryUnion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:13:20.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\SubCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\SubCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\SubCategoryRepository.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\SubCategoryRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:11:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISubCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\IRepositories\\ISubCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Repositories\\IRepositories\\ISubCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\IRepositories\\ISubCategoryRepository.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Repositories\\IRepositories\\ISubCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:11:09.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\IRepositories\\ICategoriesRepository.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Repositories\\IRepositories\\ICategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\IRepositories\\ICategoriesRepository.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Repositories\\IRepositories\\ICategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:40:37.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Repositories\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Repositories\\IRepositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:31:54.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Data\\DataContext.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:41:31.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Program.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:30:07.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Repositories\\CategoriesRepositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:29:02.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:38:22.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubCategories.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Entity\\Categories\\SubCategories.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Entity\\Categories\\SubCategories.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Entity\\Categories\\SubCategories.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Entity\\Categories\\SubCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:07:58.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Models\\Categories\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Models\\Categories\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Models\\Categories\\CategoryModel.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Models\\Categories\\CategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:28:01.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubCategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Models\\Categories\\SubCategoryModel.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Models\\Categories\\SubCategoryModel.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Models\\Categories\\SubCategoryModel.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Models\\Categories\\SubCategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:10:45.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Dockerfile",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Dockerfile",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Dockerfile",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-09T15:03:24.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\neonmag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\neonmag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ViewState": "AQIAALYAAAAAAAAAAIAwwNIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-09T13:00:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Entity\\Categories\\Categories.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Entity\\Categories\\Categories.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Entity\\Categories\\Categories.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Entity\\Categories\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:39:06.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryElement.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Abstractions\\Categories\\CategoryElement.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Abstractions\\Categories\\CategoryElement.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Abstractions\\Categories\\CategoryElement.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Abstractions\\Categories\\CategoryElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:37:20.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DBElement.cs",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Abstractions\\DBElement.cs",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\Abstractions\\DBElement.cs",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\Abstractions\\DBElement.cs",
+              "RelativeToolTip": "Rozetka-Clone.Server\\Abstractions\\DBElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:36:07.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Rozetka-Clone.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\neonmag\\source\\repos\\Rozetka-Clone\\Rozetka-Clone.Server\\appsettings.json",
+              "RelativeToolTip": "Rozetka-Clone.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T12:28:37.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
